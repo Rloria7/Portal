@@ -1,0 +1,55 @@
+
+/*contenedores*/
+.container-fluid0{
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.container-fluid1{
+padding-top: 210px;
+padding-bottom: 200px;
+}
+.container-fluid2{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.container-fluid3{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.container-fluid4{
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.container-fluid5{
+padding-top: 60px;
+padding-bottom: 50px;
+}
+
+
+
+
+/*Fondos*/
+.fondo0{
+background-color: #96c5d6;
+}
+.fondo1{
+background-image: url("../imagenes/slider.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+.fondo4{
+background-color: #ccc;
+}
+.titulo1{
+font-size: 70px;
+color: #000;
+}
+.margenes1{
+margin-top: 20px;
+margin-left: 120px;
+}
+.espacio{
+display: inline-block;
+margin: 0px 15px 0px 15px;
+}
